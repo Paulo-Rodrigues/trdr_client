@@ -1,11 +1,5 @@
-import React from 'react'
+import React from 'react';
 
-const  index = props => {
-    return (
-        <div>
-            Homepage
-        </div>
-    )
-}
+const index = () => <div>Homepage</div>;
 
-export default index
+export default index;
